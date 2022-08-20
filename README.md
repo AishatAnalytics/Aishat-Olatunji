@@ -1,2 +1,0 @@
-# Aishat-Olatunji
-Tip calculator
